@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="book.xsl"?>
+<bookdetails>
+<book>
+<title>XYZ</title>
+<author>ABC</author>
+<ISBN>22</ISBN>
+<publisher>XX</publisher>
+<price>25</price>
+<edition>2</edition>
+</book>
+<book>
+<title>MFG</title>
+<author>efg</author>
+<ISBN>23</ISBN>
+<publisher>YY</publisher>
+<price>$35</price>
+<edition>3</edition>
+</book>
+<book>
+<title>HIJ</title>
+<author>klm</author>
+<ISBN>22</ISBN>
+<publisher>ZZ</publisher>
+<price>45</price>
+<edition>4</edition>
+</book>
+<book>
+<title>EFG</title>
+<author>nop</author>
+<ISBN>21</ISBN>
+<publisher>JS</publisher>
+<price>55</price>
+<edition>5</edition>
+</book>
+</bookdetails>
